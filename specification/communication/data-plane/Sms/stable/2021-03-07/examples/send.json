@@ -28,6 +28,7 @@
       "message": "Hello world!",
       "smsSendOptions": {
         "enableDeliveryReport": true,
+        "validityPeriodSeconds": 1230,
         "tag": "testSmsRequest"
       }
     },
